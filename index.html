@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SEVENTEEN 次人资料库</title>
+    <link rel="stylesheet" href="./css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body>
+    <div class="page-scroll" id="pageScroll">
+        <!-- 第一屏：封面 -->
+        <section class="cover-section section" id="section-cover">
+            <div class="cover-bg">
+                <img src="./images/page.jpg" alt="">
+            </div>
+            <div class="cover-mask"></div>
+            <div class="cover-content">
+                <h1 class="cover-title">SEVENTEEN</h1>
+                <p class="cover-subtitle">次人资料库</p>
+                <p class="cover-hint"><span class="cover-hint-text">点击或向下滚动进入</span><i class="fas fa-chevron-down cover-arrow"></i></p>
+            </div>
+        </section>
+
+        <!-- 第二屏：首页（成员合照 + 按钮） -->
+        <section class="main-section section" id="section-main">
+            <div class="home-container">
+                <div class="group-photo">
+                    <img src="./images/svt-group.jpg" alt="SEVENTEEN团体合照">
+                    <div class="member-rows">
+                        <div class="member-row">
+                            <div class="member-name" data-id="mingyu"><span>金珉奎</span></div>
+                            <div class="member-name" data-id="dk"><span>李硕珉</span></div>
+                            <div class="member-name" data-id="woozi"><span>李知勋</span></div>
+                            <div class="member-name" data-id="dino"><span>李灿</span></div>
+                        </div>
+                        <div class="member-row">
+                            <div class="member-name" data-id="joshua"><span>洪知秀</span></div>
+                            <div class="member-name" data-id="scoups"><span>崔胜澈</span></div>
+                            <div class="member-name" data-id="seungkwan"><span>夫胜宽</span></div>
+                            <div class="member-name" data-id="wonwoo"><span>全圆佑</span></div>
+                            <div class="member-name" data-id="jeonghan"><span>尹净汉</span></div>
+                        </div>
+                        <div class="member-row">
+                            <div class="member-name" data-id="the8"><span>徐明浩</span></div>
+                            <div class="member-name" data-id="hoshi"><span>权顺荣</span></div>
+                            <div class="member-name" data-id="vernon"><span>崔瀚率</span></div>
+                            <div class="member-name" data-id="jun"><span>文俊辉</span></div>
+                        </div>
+                    </div>
+                </div>
+                <button class="random-btn">
+                    <i class="fas fa-random"></i> 随机探索成员
+                </button>
+            </div>
+        </section>
+
+        <!-- 第三屏：测测今天和哪位成员更有缘分 -->
+        <section class="fortune-section section" id="section-fortune">
+            <div class="fortune-bg"></div>
+            <div class="fortune-content">
+                <button class="fortune-btn" id="fortuneBtn">
+                    <i class="fas fa-star"></i> 测测今天和哪位成员更有缘分
+                </button>
+                <div class="fortune-card-wrap" id="fortuneCardWrap"></div>
+            </div>
+        </section>
+
+        <!-- 页脚 -->
+        <footer class="site-footer" id="section-footer">
+            <p class="footer-author">创作人：熟练度不够O_o</p>
+            <p class="footer-disclaimer">本网站为个人兴趣创作，与 SEVENTEEN 及所属公司无任何商业关联。所有图片、音乐及商标权利归原版权方所有。本站仅供交流与纪念，请勿用于商业用途。</p>
+        </footer>
+    </div>
+
+    <script src="./js/svt-members-data.js"></script>
+    <script src="./js/cover.js"></script>
+    <script src="./js/index.js"></script>
+    <script src="./js/fortune.js"></script>
+</body>
+</html>

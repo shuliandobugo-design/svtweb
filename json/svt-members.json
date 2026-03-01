@@ -1,0 +1,366 @@
+[
+    {
+        "id": "scoups",
+        "stageName": "S.Coups",
+        "realName": "崔胜澈",
+        "team": "嘻哈队",
+        "role": "队长、主Rapper",
+        "color": "#FF5733",
+        "birthday": "1995年08月08日",
+        "nationality": "韩国",
+        "bloodType": "A型",
+        "mbti": "ESFJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《CLAP》", "time": "2017", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+CLAP+official+MV" },
+            { "name": "《HOT》", "time": "2022", "url": "https://www.youtube.com/watch?v=gRnuFC4Ualw" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "通过 Pledis 练习生选拔入社" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 队长身份正式出道，发行首张迷你专辑《17 CARAT》" },
+            { "time": "2016年", "event": "随团发行《BOOMBOOM》《VERY NICE》等主打，参与嘻哈队多首曲目" },
+            { "time": "2017年", "event": "参与《CLAP》《Don't Wanna Cry》等主打活动，巩固队长与主 Rapper 定位" },
+            { "time": "2019年", "event": "参与《HIT》《Fear》等回归，带领团体拓展海外市场" },
+            { "time": "2021年", "event": "持续担任 SEVENTEEN 队长，参与《Rock with you》等回归" },
+            { "time": "2022年", "event": "参与《HOT》《_World》等主打活动及世界巡演" },
+            { "time": "2023年", "event": "参与正规四辑《FML》及后续《Super》活动，带领团体创多项纪录" }
+        ]
+    },
+    {
+        "id": "jeonghan",
+        "stageName": "Jeonghan",
+        "realName": "尹净汉",
+        "team": "主唱队",
+        "role": "主唱、门面",
+        "color": "#33A1FF",
+        "birthday": "1995年10月04日",
+        "nationality": "韩国",
+        "bloodType": "B型",
+        "mbti": "INFJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Home》", "time": "2019", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Home+official+MV" },
+            { "name": "《Rock with you》", "time": "2021", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Rock+with+you+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "随 SEVENTEEN 正式出道，担任主唱队成员" },
+            { "time": "2016年", "event": "参与《Pretty U》《VERY NICE》等主打及多档综艺" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等活动，展现主唱与门面魅力" },
+            { "time": "2019年", "event": "参与《Home》《Hit》等回归，随团举行世界巡演" },
+            { "time": "2021年", "event": "参与《Rock with you》《Ready to love》等主打活动" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及 SEVENTEEN 世界巡演" },
+            { "time": "2023年", "event": "参与《Super》《F*ck My Life》等活动，持续活跃于团体与综艺" }
+        ]
+    },
+    {
+        "id": "joshua",
+        "stageName": "Joshua",
+        "realName": "洪知秀",
+        "team": "主唱队",
+        "role": "主唱",
+        "color": "#9B59B6",
+        "birthday": "1995年12月30日",
+        "nationality": "美籍韩裔",
+        "bloodType": "A型",
+        "mbti": "ENFP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Don't Wanna Cry》", "time": "2017", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Don%27t+Wanna+Cry+official+MV" },
+            { "name": "《Left & Right》", "time": "2020", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Left+Right+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "在美国被星探发掘后赴韩加入 Pledis 练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 主唱队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《Pretty U》《VERY NICE》等主打，展现清亮声线" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等大热曲目活动" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》《Home》等回归及海外巡演" },
+            { "time": "2020年", "event": "参与《Left & Right》《Home;Run》等主打活动" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演" },
+            { "time": "2023年", "event": "参与《Super》《F*ck My Life》等活动，持续作为主唱队核心" }
+        ]
+    },
+    {
+        "id": "jun",
+        "stageName": "Jun",
+        "realName": "文俊辉",
+        "team": "表演队",
+        "role": "主舞、副唱",
+        "color": "#E74C3C",
+        "birthday": "1996年06月10日",
+        "nationality": "中国",
+        "bloodType": "O型",
+        "mbti": "INFP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Highlight》", "time": "2016", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Highlight+performance" },
+            { "name": "《Super》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Super+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2012年", "event": "在中国以童星身份活动，后赴韩训练" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 表演队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《Highlight》等表演队舞台，展现武术与舞蹈结合风格" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打及表演队单元" },
+            { "time": "2019年", "event": "随团参与《Hit》《Fear》回归及世界巡演" },
+            { "time": "2021年", "event": "参与《Rock with you》等活动，在中国综艺中活跃" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及中国与韩国多档节目" },
+            { "time": "2023年", "event": "参与《Super》等主打及表演队舞台，持续拓展中韩活动" }
+        ]
+    },
+    {
+        "id": "hoshi",
+        "stageName": "Hoshi",
+        "realName": "权顺荣",
+        "team": "表演队",
+        "role": "表演队队长、主舞、主唱",
+        "color": "#F39C12",
+        "birthday": "1996年06月15日",
+        "nationality": "韩国",
+        "bloodType": "B型",
+        "mbti": "ENFJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Spider》", "time": "2021", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Hoshi+Spider+official" },
+            { "name": "《Super》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Super+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2011年", "event": "通过 Pledis 面试成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 表演队队长身份正式出道" },
+            { "time": "2016年", "event": "参与《Highlight》等表演队编舞与舞台，确立表演队风格" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打编舞与表演" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》等回归，带领表演队完成多场高难度舞台" },
+            { "time": "2021年", "event": "发行个人单曲《Spider》及 MV，获得热烈反响" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演表演队舞台" },
+            { "time": "2023年", "event": "参与《Super》等主打，持续负责表演队编舞与概念" }
+        ]
+    },
+    {
+        "id": "wonwoo",
+        "stageName": "Wonwoo",
+        "realName": "全圆佑",
+        "team": "嘻哈队",
+        "role": "主Rapper、副唱",
+        "color": "#1ABC9C",
+        "birthday": "1996年07月17日",
+        "nationality": "韩国",
+        "bloodType": "A型",
+        "mbti": "ISTP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Don't Wanna Cry》", "time": "2017", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Don%27t+Wanna+Cry+official+MV" },
+            { "name": "《HOT》", "time": "2022", "url": "https://www.youtube.com/watch?v=gRnuFC4Ualw" }
+        ],
+        "timeline": [
+            { "time": "2012年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 嘻哈队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《VERY NICE》《BOOMBOOM》等曲目 Rap 与表演" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打，展现低沉 Rap 音色" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》《Home》等回归及嘻哈队单元" },
+            { "time": "2021年", "event": "参与《Rock with you》《Ready to love》等活动" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演" },
+            { "time": "2023年", "event": "参与正规四辑《FML》及《Super》活动" }
+        ]
+    },
+    {
+        "id": "woozi",
+        "stageName": "Woozi",
+        "realName": "李知勋",
+        "team": "主唱队",
+        "role": "主唱、制作人、主唱队队长",
+        "color": "#FFD700",
+        "birthday": "1996年11月22日",
+        "nationality": "韩国",
+        "bloodType": "A型",
+        "mbti": "INTJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Very Nice》", "time": "2016", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Very+Nice+official+MV" },
+            { "name": "《Super》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Super+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2011年", "event": "进入 Pledis 成为练习生，接受声乐与创作训练" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 主唱队队长身份出道，参与多首曲目创作" },
+            { "time": "2016年", "event": "参与创作《VERY NICE》《BOOMBOOM》等主打，确立团体制作人角色" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等曲目作曲制作" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》《Home》等全辑制作" },
+            { "time": "2020年", "event": "包揽迷你七辑《Heng:garæ》全部歌曲制作" },
+            { "time": "2022年", "event": "参与《HOT》《_World》等曲目制作及世界巡演" },
+            { "time": "2023年", "event": "参与正规四辑《FML》及《Super》等曲目制作，持续担任团体核心制作人" }
+        ]
+    },
+    {
+        "id": "dk",
+        "stageName": "DK",
+        "realName": "李硕珉",
+        "team": "主唱队",
+        "role": "主唱",
+        "color": "#3498DB",
+        "birthday": "1997年02月18日",
+        "nationality": "韩国",
+        "bloodType": "O型",
+        "mbti": "ENFP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Don't Wanna Cry》", "time": "2017", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Don%27t+Wanna+Cry+official+MV" },
+            { "name": "《_World》", "time": "2022", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+_World+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2012年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 主唱队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《VERY NICE》《Pretty U》等主打，展现高音与感染力" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等大热曲目主唱部分" },
+            { "time": "2019年", "event": "参与《Hit》《Home》等回归，随团举行世界巡演" },
+            { "time": "2021年", "event": "参与《Rock with you》等活动，涉足音乐剧领域" },
+            { "time": "2022年", "event": "参与《HOT》《_World》主打及音乐剧、综艺等多栖活动" },
+            { "time": "2023年", "event": "参与《Super》《F*ck My Life》等活动，持续主唱与音乐剧活动" }
+        ]
+    },
+    {
+        "id": "mingyu",
+        "stageName": "Mingyu",
+        "realName": "金珉奎",
+        "team": "嘻哈队",
+        "role": "主Rapper、副唱、门面",
+        "color": "#2ECC71",
+        "birthday": "1997年04月06日",
+        "nationality": "韩国",
+        "bloodType": "B型",
+        "mbti": "ESTP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《HIT》", "time": "2019", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+HIT+official+MV" },
+            { "name": "《Super》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Super+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 嘻哈队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《VERY NICE》《BOOMBOOM》等曲目，兼具 Rap 与门面担当" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打活动" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》《Home》等回归，随团世界巡演" },
+            { "time": "2021年", "event": "参与《Rock with you》等活动，活跃于综艺与画报" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演" },
+            { "time": "2023年", "event": "参与《Super》等主打及多档综艺、品牌活动" }
+        ]
+    },
+    {
+        "id": "the8",
+        "stageName": "The8",
+        "realName": "徐明浩",
+        "team": "表演队",
+        "role": "主舞、副唱",
+        "color": "#E91E63",
+        "birthday": "1997年11月07日",
+        "nationality": "中国",
+        "bloodType": "B型",
+        "mbti": "INFP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Side By Side》", "time": "2021", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Side+By+Side" },
+            { "name": "《海城》", "time": "2022", "url": "https://www.youtube.com/results?search_query=徐明浩+海城+official" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "在中国学习舞蹈，后赴韩加入 Pledis 练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 表演队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《Highlight》等表演队舞台，展现中国舞与街舞结合" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打及表演队单元" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》回归及世界巡演，在中国人气上升" },
+            { "time": "2021年", "event": "参与《Rock with you》《Side By Side》等活动" },
+            { "time": "2022年", "event": "发行个人中文单曲《海城》及 MV，拓展在华个人活动" },
+            { "time": "2023年", "event": "参与《Super》等主打及表演队舞台，持续中韩双线发展" }
+        ]
+    },
+    {
+        "id": "seungkwan",
+        "stageName": "Seungkwan",
+        "realName": "夫胜宽",
+        "team": "主唱队",
+        "role": "主唱",
+        "color": "#00BCD4",
+        "birthday": "1998年01月16日",
+        "nationality": "韩国",
+        "bloodType": "O型",
+        "mbti": "ESFJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Don't Wanna Cry》", "time": "2017", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Don%27t+Wanna+Cry+official+MV" },
+            { "name": "《F*ck My Life》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+FML+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2012年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 主唱队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《VERY NICE》《Pretty U》等主打，展现主唱与艺能感" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等活动，开始固定综艺出演" },
+            { "time": "2019年", "event": "参与《Hit》《Home》等回归，在多档综艺中担任 MC 或固定成员" },
+            { "time": "2021年", "event": "参与《Rock with you》等活动，综艺与歌唱双线活跃" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演，持续综艺与 OST 活动" },
+            { "time": "2023年", "event": "参与《F*ck My Life》《Super》等活动，成为韩国代表性偶像综艺人之一" }
+        ]
+    },
+    {
+        "id": "vernon",
+        "stageName": "Vernon",
+        "realName": "崔瀚率",
+        "team": "嘻哈队",
+        "role": "主Rapper、副唱",
+        "color": "#673AB7",
+        "birthday": "1998年02月18日",
+        "nationality": "美籍韩裔",
+        "bloodType": "A型",
+        "mbti": "INTP",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Left & Right》", "time": "2020", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Left+Right+official+MV" },
+            { "name": "《HOT》", "time": "2022", "url": "https://www.youtube.com/watch?v=gRnuFC4Ualw" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "通过 Pledis 选秀成为练习生" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 嘻哈队成员身份正式出道" },
+            { "time": "2016年", "event": "参与《VERY NICE》《BOOMBOOM》等曲目 Rap 与表演" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打，展现独特 Rap 风格" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》《Home》等回归及嘻哈队单元" },
+            { "time": "2020年", "event": "参与《Left & Right》《Home;Run》等主打活动" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演" },
+            { "time": "2023年", "event": "参与正规四辑《FML》及《Super》活动" }
+        ]
+    },
+    {
+        "id": "dino",
+        "stageName": "Dino",
+        "realName": "李灿",
+        "team": "表演队",
+        "role": "主舞、副唱、忙内",
+        "color": "#FF9800",
+        "birthday": "1999年02月11日",
+        "nationality": "韩国",
+        "bloodType": "B型",
+        "mbti": "ESTJ",
+        "status": "现役",
+        "carouselCount": 3,
+        "works": [
+            { "name": "《Highlight》", "time": "2016", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Highlight+performance" },
+            { "name": "《Super》", "time": "2023", "url": "https://www.youtube.com/results?search_query=SEVENTEEN+Super+official+MV" }
+        ],
+        "timeline": [
+            { "time": "2013年", "event": "通过 Pledis 选秀成为练习生，为团体忙内" },
+            { "time": "2015年05月26日", "event": "以 SEVENTEEN 表演队忙内身份正式出道" },
+            { "time": "2016年", "event": "参与《Highlight》等表演队舞台，展现主舞实力" },
+            { "time": "2017年", "event": "参与《Don't Wanna Cry》《CLAP》等主打及表演队单元" },
+            { "time": "2019年", "event": "参与《Hit》《Fear》等回归，随团世界巡演" },
+            { "time": "2021年", "event": "参与《Rock with you》《Spider》等舞台及表演队编舞" },
+            { "time": "2022年", "event": "参与《HOT》《_World》及世界巡演表演队舞台" },
+            { "time": "2023年", "event": "参与《Super》等主打及表演队核心舞台，持续成长为主舞与全能忙内" }
+        ]
+    }
+]
